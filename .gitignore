@@ -1,3 +1,7 @@
 venv/
+tests/
 __pycache__/
 *.pyc
+__init__.py
+test_tasks.py
+README_PROYECTO.md
